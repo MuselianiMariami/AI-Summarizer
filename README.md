@@ -1,6 +1,5 @@
-# React + Vite
 ## Introduction
-Features:
+Steps:
 - setup a ReactJS project using Vite
 - create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
 - make advanced RTK query API requests that fire on condition
